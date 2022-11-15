@@ -2,27 +2,27 @@
 ## VHDL Files
 
 
-##Constraint Files
+## Constraint Files
 
-##Required Hardware
+## Required Hardware
 
-##Inspiration for Project
+## Inspiration for Project
 
-##Design Process
+## Design Process
 
-##Block Diagram
+## Block Diagram
 
-##Extra section
+## Extra section
 
-##Vivado Implementation Instructions
-###1. Create a new RTL project [project name here]
-*sub steps
-**file name
+## Vivado Implementation Instructions
+### 1. Create a new RTL project [project name here]
+* sub steps
+** file name
 
-##Schematic in Vivado
+## Schematic in Vivado
 
-###Simplified Schematic
+### Simplified Schematic
 
-##Implemented Design in Vivado
+## Implemented Design in Vivado
 
-##Demonstration
+## Demonstration
