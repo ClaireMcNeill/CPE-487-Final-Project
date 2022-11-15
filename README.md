@@ -1,2 +1,2 @@
-# CPE-487-Final-Project
+# CPE 487 Final Project
 ## VHDL Files
